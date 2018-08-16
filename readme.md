@@ -1,5 +1,5 @@
 **Usage**
-1. Add the submodule using 'git submodule add git@github.com:BJAMES4/ios_facts.git'
+1. Add the submodule using 'git submodule add git@github.com:bjames/ios_facts.git'
 2. Import the submodule into your python projects as follows: 'from ios_facts.ios_facts import get_facts'
 3. When ready, commit your changes and include the submodule: "git commit -am 'added ios_facts submodule'"
 4. Push the changes 'git push origin master'
